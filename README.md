@@ -48,6 +48,6 @@ AutoBackup.exe D:\BACKUP\ server=localhost;port=3306;database=wisata;user=root;p
 
 ## Disclaimer
 
-Aplikasi AutoBackup.exe masih dalam tahap pengembangan dan mungkin memiliki beberapa kekurangan. Kami mengundang kontribusi dari para pengguna untuk membantu memperbaiki dan meningkatkan aplikasi ini. Jika Anda menemukan bug, memiliki saran, atau ingin berkontribusi dalam bentuk lainnya, silakan ajukan permintaan tarik (pull request) ke repositori di [link_to_repository](link_to_repository). Kami sangat menghargai kontribusi Anda untuk meningkatkan kualitas dan fungsionalitas aplikasi ini.
+Aplikasi AutoBackup.exe masih dalam tahap pengembangan dan mungkin memiliki beberapa kekurangan. Kami mengundang kontribusi dari para pengguna untuk membantu memperbaiki dan meningkatkan aplikasi ini. Jika Anda menemukan bug, memiliki saran, atau ingin berkontribusi dalam bentuk lainnya, silakan ajukan permintaan tarik (pull request) ke repositori di [https://github.com/carlesneo70/AutoBackupRev](https://github.com/carlesneo70/AutoBackupRev). Kami sangat menghargai kontribusi Anda untuk meningkatkan kualitas dan fungsionalitas aplikasi ini.
 
 ## Terima kasih telah menggunakan AutoBackup.exe
