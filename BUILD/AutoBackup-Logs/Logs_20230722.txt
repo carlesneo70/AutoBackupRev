@@ -1,0 +1,5 @@
+
+--------------------------Application Run--------------------------
+2023-07-22 14:15:28,981 [3] ERROR FileAppender - Backup DB Failure with message: Host 'DESKTOP-FU00ASH' is not allowed to connect to this MariaDB server
+
+--------------------------Application End--------------------------
