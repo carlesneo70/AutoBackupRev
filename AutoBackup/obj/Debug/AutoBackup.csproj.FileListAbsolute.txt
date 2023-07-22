@@ -1,0 +1,47 @@
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\BUILD\AutoBackup.exe.config
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\BUILD\AutoBackup.exe
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\BUILD\AutoBackup.pdb
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.csprojAssemblyReference.cache
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.FrmMain.resources
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.exe
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\AutoBackup\obj\Debug\AutoBackup.pdb
+E:\AutoBackup\BUILD\AutoBackup.exe.config
+E:\AutoBackup\BUILD\AutoBackup.exe
+E:\AutoBackup\BUILD\AutoBackup.pdb
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.FrmMain.resources
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.Fody.CopyLocal.cache
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CopyComplete
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+E:\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb
+F:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.exe.config
+F:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.exe
+F:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.pdb
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.AssemblyReference.cache
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.SuggestedBindingRedirects.cache
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.FrmMain.resources
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.Fody.CopyLocal.cache
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CopyComplete
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+F:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb
+H:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.exe.config
+H:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.exe
+H:\DISK F BACKUP\AutoBackup\BUILD\AutoBackup.pdb
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.AssemblyReference.cache
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.SuggestedBindingRedirects.cache
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.FrmMain.resources
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.Fody.CopyLocal.cache
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CopyComplete
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+H:\DISK F BACKUP\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb

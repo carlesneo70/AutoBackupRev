@@ -1,0 +1,10 @@
+
+--------------------------Application Run--------------------------
+2023-07-10 10:25:22,991 [3] ERROR FileAppender - Backup DB Failure with message: Invalid attempt to access a field before calling Read()
+
+--------------------------Application End--------------------------
+
+--------------------------Application Run--------------------------
+2023-07-10 10:25:48,584 [3] ERROR FileAppender - Backup DB Failure with message: Invalid attempt to access a field before calling Read()
+
+--------------------------Application End--------------------------
